@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "SafarSuraksha",
+    "slug": "safarsuraksha",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#123B5D"
+    },
+    "android": {
+      "package": "com.safarsuraksha.app"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
